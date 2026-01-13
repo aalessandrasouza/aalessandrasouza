@@ -5,8 +5,11 @@
 Étudiante en informatique à l’Université Grenoble Alpes, je recherche un *stage/alternance* en développement web.
 Disponible du **20/04/2026** au **26/06/2026** prolongeable jusqu'au 10/07/2026.
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=&logoColor=white)](https://aalessandrasouza.github.io/portfolio-alessandra_souza/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alesouza/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alessandrasouza@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alessandrasouza6178@gmail.com)
+
+
 
 
 
@@ -49,9 +52,8 @@ Disponible du **20/04/2026** au **26/06/2026** prolongeable jusqu'au 10/07/2026.
 | PHP | [Certification](https://hermes.dio.me/certificates/EVZRABVO.pdf)|
 | Java | [Certification](https://hermes.dio.me/certificates/ZF60KIT1.pdf)|
 | Database | [Certification](https://hermes.dio.me/certificates/ONYQT83C.pdf)|
+        
 
-
-          
 ---
 
 ## 📈 GitHub Stats
