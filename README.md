@@ -1,6 +1,6 @@
 # Salut, je suis *Alessandra* ! 👋
 
-## Développeuse Fullstack (Junior)
+## Développeuse Fullstack 
 
 Étudiante en informatique à l’Université Grenoble Alpes, je recherche un *stage/alternance* en développement web.
 Disponible du **20/04/2026** au **26/06/2026** prolongeable jusqu'au 10/07/2026.
@@ -44,10 +44,14 @@ Disponible du **20/04/2026** au **26/06/2026** prolongeable jusqu'au 10/07/2026.
 
 |Cours | Certification |
 |------- | -------|
-| HTML Web Developer | [Certification](https://hermes.dio.me/certificates/KHMMQA2E.pdf)|
+| HTML | [Certification](https://hermes.dio.me/certificates/KHMMQA2E.pdf)|
 | CSS | [Certification](https://hermes.dio.me/certificates/AGW3WUDH.pdf)|
-          
+| PHP | [Certification](https://hermes.dio.me/certificates/EVZRABVO.pdf)|
+| Java | [Certification](https://hermes.dio.me/certificates/ZF60KIT1.pdf)|
+| Database | [Certification](https://hermes.dio.me/certificates/ONYQT83C.pdf)|
 
+
+          
 ---
 
 ## 📈 GitHub Stats
