@@ -23,9 +23,20 @@ Disponible du **20/04/2026** au **26/06/2026** prolongeable jusqu'au 10/07/2026.
 | CSS | [Certification](https://hermes.dio.me/certificates/AGW3WUDH.pdf)|
           
 
+---
 
+## 📈 GitHub Stats
 
------
-![Alessandra Souza GitHub stats](https://github-readme-stats.vercel.app/api?username=aalessandrasouza&show_icons=true&theme=dracula)
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=aalessandrasouza&show_icons=true&hide_border=true"
+  alt="Alessandra Souza GitHub Stats"
+  height="160"
+/>
+
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=aalessandrasouza&layout=compact&hide_border=true"
+  alt="Alessandra Souza Top Languages"
+  height="160"
+/>
 
 
