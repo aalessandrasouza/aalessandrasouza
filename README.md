@@ -15,7 +15,7 @@ Disponible du **20/04/2026** au **26/06/2026** prolongeable jusqu'au 10/07/2026.
 
 [Portfolio](https://aalessandrasouza.github.io/portfolio-alessandra_souza/)
 
-### **Frontend**
+### **Front-end**
 
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -23,7 +23,7 @@ Disponible du **20/04/2026** au **26/06/2026** prolongeable jusqu'au 10/07/2026.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-### **Backend**
+### **Back-end**
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -36,7 +36,7 @@ Disponible du **20/04/2026** au **26/06/2026** prolongeable jusqu'au 10/07/2026.
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-### **Tools & DevOps**
+### **Outils et DevOps**
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
