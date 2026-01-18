@@ -12,7 +12,7 @@ Disponible du **20/04/2026** au **26/06/2026** prolongeable jusqu'au 10/07/2026.
 
 ## Compétences techniques
 
-### **Front-end**
+### **Front-end (bon niveau)**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -21,7 +21,7 @@ Disponible du **20/04/2026** au **26/06/2026** prolongeable jusqu'au 10/07/2026.
 
 ---
 
-### **Back-end**
+### **Back-end (notions)**
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -30,7 +30,7 @@ Disponible du **20/04/2026** au **26/06/2026** prolongeable jusqu'au 10/07/2026.
 
 ---
 
-### **Base de données**
+### **Base de données (notions)**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -38,7 +38,7 @@ Disponible du **20/04/2026** au **26/06/2026** prolongeable jusqu'au 10/07/2026.
 
 ---
 
-### **Outils & DevOps**
+### **Outils & DevOps (bon niveau)**
 
 ![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -48,14 +48,14 @@ Disponible du **20/04/2026** au **26/06/2026** prolongeable jusqu'au 10/07/2026.
 
 ---
 
-### **Design & prototypage**
+### **Design & prototypage (bon niveau)**
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 ---
 
-### **Outils scientifiques & pédagogiques**
+### **Outils scientifiques & pédagogiques (bon niveau)**
 
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
@@ -63,7 +63,7 @@ Disponible du **20/04/2026** au **26/06/2026** prolongeable jusqu'au 10/07/2026.
 
 ---
 
-### **Robotique**
+### **Robotique (bon niveau)**
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Scratch](https://img.shields.io/badge/Scratch-FFA500?style=for-the-badge)
@@ -95,10 +95,10 @@ Disponible du **20/04/2026** au **26/06/2026** prolongeable jusqu'au 10/07/2026.
 
 ## 📈 GitHub Stats
 
-[![Alessandra Souza GitHub stats](https://github-readme-stats.vercel.app/api?username=aalessandrasouza)](https://github.com/aalessandrasouza/github-readme-stats)
+![Alessandra's GitHub stats](https://github-readme-stats.vercel.app/api?username=aalessandra.souza&show_icons=true&theme=dracula)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aalessandra.souza&layout=compact)
 
-[![Alessandra Souza Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aalessandrasouza)](https://github.com/aalessandrasouza/github-readme-stats)
 
 -----
 
