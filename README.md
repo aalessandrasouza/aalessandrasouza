@@ -95,9 +95,9 @@ Disponible du **20/04/2026** au **26/06/2026** prolongeable jusqu'au 10/07/2026.
 
 ## 📈 GitHub Stats
 
-![Alessandra's GitHub stats](https://github-readme-stats.vercel.app/api?username=aalessandra.souza&show_icons=true&theme=dracula)
+![Alessandra's GitHub stats](https://github-readme-stats.vercel.app/api?username=aalessandrasouza&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aalessandra.souza&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aalessandrasouza&layout=compact)
 
 
 -----
