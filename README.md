@@ -2,12 +2,18 @@
 
 ## Développeuse Full-Stack junior
 
-Étudiante en informatique à l’Université Grenoble Alpes, je recherche un *stage/alternance* en développement web.
-Disponible du **20/04/2026** au **26/06/2026** prolongeable jusqu'au 10/07/2026.
+Étudiante en 3ᵉ année de BUT Informatique à l’IUT2 Grenoble, je recherche une alternance en développement web Fullstack dès septembre 2026 (rythme semaine alternée). 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=&logoColor=white)](https://aalessandrasouza.github.io/portfolio-alessandra_souza/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alesouza/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alessandrasouza6178@gmail.com)
+
+
+## 📈 GitHub Stats
+
+![Alessandra's GitHub stats](https://github-readme-stats.vercel.app/api?username=aalessandrasouza&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aalessandrasouza&layout=compact&theme=dracula)
+
 
 
 ## Compétences techniques
@@ -77,12 +83,6 @@ Disponible du **20/04/2026** au **26/06/2026** prolongeable jusqu'au 10/07/2026.
 - 🇫🇷 Français — B2 (C1 en préparation)  
 - 🇬🇧 Anglais — B1/B2  
 - 🇪🇸 Espagnol — A1/A2  
-
-
-## 📈 GitHub Stats
-
-![Alessandra's GitHub stats](https://github-readme-stats.vercel.app/api?username=aalessandrasouza&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aalessandrasouza&layout=compact&theme=dracula)
 
 
 -----
